@@ -11,6 +11,7 @@ public class test {
 		printDuplicateElement("java");
 
 	}
+	System.out.println("hey ");
 
 	private static void printDuplicateElement(String word) {
 		// TODO Auto-generated method stub
